@@ -6,7 +6,6 @@
 
 	<title>Car Rental</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
- 
 </head>
 
 <body>
@@ -20,7 +19,7 @@
 		       		<img src=img1.png width="40px" height="40px" style="margin:3px;">
 		       	</li>
 		       	<li class="nav-item">
-		            <a href="index.html" class="nav-link">Home</a>
+		            <a href="new.php" class="nav-link">Home</a>
 		       	</li>
 		       	<li class="nav-item">
 		            <a href="#" class="nav-link">Vehicles</a> 
@@ -65,8 +64,8 @@
 -->     		
     </section>
 
-    <footer class="wrapper" id="bottom_part">
-    	<div class="p-1">
+    <footer class="wrapper" id="main-footer">
+    	<div class="p-1" id="social-icons">
     		<div class="text-center">
     			
     			<h3 class="font-x1 text-dark">Welcome to our Webpage</h3>
@@ -153,7 +152,6 @@
     	</div>
 
     </footer>
-
 
 </body>
 </html>
